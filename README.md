@@ -31,16 +31,16 @@ Where:
 
 ## 📂 Contents
 
-- `inverter_sim.slx` → Simulink model containing both half-bridge & full-bridge circuits  
-- `results/` → Simulation results (waveforms, plots, etc.)  
+- `HB_FB_1ph_inverter.slx` → Simulink model containing both half-bridge & full-bridge circuits  
+- `results/` → Simulation results plots 
 - `README.md` → Project documentation  
-- `LICENSE` → Open-source license (MIT)  
+- `LICENSE` → Apache-2.0 license 
 
 ---
 
 ## ▶️ Usage
 
-1. Open `inverter_sim.slx` in MATLAB/Simulink.
+1. Open `HB_FB_1ph_inverter.slx` in MATLAB/Simulink.
 2. Run the simulation.
 3. Inspect waveforms for both **half-bridge** and **full-bridge** inverters.
 4. Modify `m` (modulation index) and `Vdc` to observe changes.
