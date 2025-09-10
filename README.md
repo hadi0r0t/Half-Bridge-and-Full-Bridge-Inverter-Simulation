@@ -55,10 +55,12 @@ Where:
 
 ---
 
-## ✍️ Author
+## 👨‍💻 Author
+**Hadi Rafat Talab**  
+*GitHub:* [@hadi0r0t](https://github.com/hadi0r0t)  
+*Email:* hadi0r0t@gmail.com
+*Telegram:* @hadi0r0t
 
-- **[Hadi Rafat Talab]**
-  
 
 
   Open to collaborations in power electronics, renewable energy systems, and control strategies.
